@@ -1,4 +1,0 @@
-Invoking command in '/data/build/qt_image_text_transfer': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /data/qt_image_text_transfer -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -G Ninja -DCMAKE_INSTALL_PREFIX=/data/install/qt_image_text_transfer
-Invoked command in '/data/build/qt_image_text_transfer' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /data/qt_image_text_transfer -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -G Ninja -DCMAKE_INSTALL_PREFIX=/data/install/qt_image_text_transfer
-Invoking command in '/data/build/qt_image_text_transfer': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /data/build/qt_image_text_transfer -- -j32 -l32
-Invoked command in '/data/build/qt_image_text_transfer' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /data/build/qt_image_text_transfer -- -j32 -l32

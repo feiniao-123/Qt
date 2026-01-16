@@ -1,0 +1,77 @@
+[0.000000] (-) TimerEvent: {}
+[0.000216] (qt_image_text_transfer) JobQueued: {'identifier': 'qt_image_text_transfer', 'dependencies': OrderedDict()}
+[0.000373] (qt_image_text_transfer) JobStarted: {'identifier': 'qt_image_text_transfer'}
+[0.030646] (qt_image_text_transfer) JobProgress: {'identifier': 'qt_image_text_transfer', 'progress': 'cmake'}
+[0.041960] (qt_image_text_transfer) JobProgress: {'identifier': 'qt_image_text_transfer', 'progress': 'build'}
+[0.043352] (qt_image_text_transfer) Command: {'cmd': ['/usr/bin/cmake', '--build', '/data/build/qt_image_text_transfer', '--', '-j32', '-l32'], 'cwd': '/data/build/qt_image_text_transfer', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('CLAUDE_CODE_ENTRYPOINT', 'cli'), ('GIT_EDITOR', 'true'), ('HOSTNAME', 'docker-desktop'), ('SHLVL', '2'), ('LD_LIBRARY_PATH', '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/root'), ('OLDPWD', '/'), ('NVM_BIN', '/root/.nvm/versions/node/v24.12.0/bin'), ('NVM_INC', '/root/.nvm/versions/node/v24.12.0/include/node'), ('ROS_PYTHON_VERSION', '3'), ('NVM_DIR', '/root/.nvm'), ('DEBUGINFOD_URLS', ''), ('API_TIMEOUT_MS', '3000000'), ('ROS_DISTRO', 'humble'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('ANTHROPIC_BASE_URL', 'https://open.bigmodel.cn/api/anthropic'), ('TERM', 'xterm'), ('OTEL_EXPORTER_OTLP_METRICS_TEMPORALITY_PREFERENCE', 'delta'), ('ROS_LOCALHOST_ONLY', '0'), ('QT_X11_NO_MITSHM', '1'), ('PATH', '/root/.nvm/versions/node/v24.12.0/bin:/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'), ('COREPACK_ENABLE_AUTO_PIN', '0'), ('DISPLAY', 'host.docker.internal:0.0'), ('NoDefaultCurrentDirectoryInExePath', '1'), ('LANG', 'C.UTF-8'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('AMENT_PREFIX_PATH', '/opt/ros/humble'), ('ROS_DOMAIN_ID', '223'), ('SHELL', '/bin/bash'), ('ANTHROPIC_AUTH_TOKEN', '3d32635b207540678fbf3cb0d3dfb8ad.JgRpcBiPN4Z9o7EZ'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('CLAUDECODE', '1'), ('PWD', '/data/build/qt_image_text_transfer'), ('LC_ALL', 'C.UTF-8'), ('NVM_CD_FLAGS', ''), ('CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC', '1'), ('PYTHONPATH', '/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('COLCON', '1'), ('CMAKE_PREFIX_PATH', '/opt/ros/humble')]), 'shell': False}
+[0.099067] (-) TimerEvent: {}
+[0.199316] (-) TimerEvent: {}
+[0.208634] (qt_image_text_transfer) StdoutLine: {'line': b'[1/6] Automatic MOC and UIC for target qt_image_text_transfer\n'}
+[0.299437] (-) TimerEvent: {}
+[0.399715] (-) TimerEvent: {}
+[0.500000] (-) TimerEvent: {}
+[0.600319] (-) TimerEvent: {}
+[0.702391] (-) TimerEvent: {}
+[0.802788] (-) TimerEvent: {}
+[0.903287] (-) TimerEvent: {}
+[1.003735] (-) TimerEvent: {}
+[1.104850] (-) TimerEvent: {}
+[1.205121] (-) TimerEvent: {}
+[1.305442] (-) TimerEvent: {}
+[1.405739] (-) TimerEvent: {}
+[1.506014] (-) TimerEvent: {}
+[1.606339] (-) TimerEvent: {}
+[1.706908] (-) TimerEvent: {}
+[1.807178] (-) TimerEvent: {}
+[1.932306] (-) TimerEvent: {}
+[2.033492] (-) TimerEvent: {}
+[2.135354] (-) TimerEvent: {}
+[2.236091] (-) TimerEvent: {}
+[2.336460] (-) TimerEvent: {}
+[2.437332] (-) TimerEvent: {}
+[2.538207] (-) TimerEvent: {}
+[2.638875] (-) TimerEvent: {}
+[2.739594] (-) TimerEvent: {}
+[2.842123] (-) TimerEvent: {}
+[2.942976] (-) TimerEvent: {}
+[3.043814] (-) TimerEvent: {}
+[3.144753] (-) TimerEvent: {}
+[3.246066] (-) TimerEvent: {}
+[3.346725] (-) TimerEvent: {}
+[3.447283] (-) TimerEvent: {}
+[3.547876] (-) TimerEvent: {}
+[3.648368] (-) TimerEvent: {}
+[3.749263] (-) TimerEvent: {}
+[3.850022] (-) TimerEvent: {}
+[3.950513] (-) TimerEvent: {}
+[4.050996] (-) TimerEvent: {}
+[4.151495] (-) TimerEvent: {}
+[4.251932] (-) TimerEvent: {}
+[4.352381] (-) TimerEvent: {}
+[4.453026] (-) TimerEvent: {}
+[4.553442] (-) TimerEvent: {}
+[4.653962] (-) TimerEvent: {}
+[4.681315] (qt_image_text_transfer) StdoutLine: {'line': b'[2/5] Building CXX object CMakeFiles/qt_image_text_transfer.dir/src/client_window.cpp.o\n'}
+[4.754087] (-) TimerEvent: {}
+[4.758186] (qt_image_text_transfer) StdoutLine: {'line': b'[3/5] Building CXX object CMakeFiles/qt_image_text_transfer.dir/src/server_window.cpp.o\n'}
+[4.758666] (qt_image_text_transfer) StdoutLine: {'line': b'FAILED: CMakeFiles/qt_image_text_transfer.dir/src/server_window.cpp.o \n'}
+[4.758988] (qt_image_text_transfer) StdoutLine: {'line': b'/usr/bin/c++ -DDEFAULT_RMW_IMPLEMENTATION=rmw_fastrtps_cpp -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DRCUTILS_ENABLE_FAULT_INJECTION -I/data/build/qt_image_text_transfer/qt_image_text_transfer_autogen/include -I/data/qt_image_text_transfer/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /opt/ros/humble/include/rclcpp -isystem /opt/ros/humble/include/sensor_msgs -isystem /opt/ros/humble/include/std_msgs -isystem /opt/ros/humble/include/cv_bridge -isystem /usr/include/opencv4 -isystem /opt/ros/humble/include/ament_index_cpp -isystem /opt/ros/humble/include/libstatistics_collector -isystem /opt/ros/humble/include/builtin_interfaces -isystem /opt/ros/humble/include/rosidl_runtime_c -isystem /opt/ros/humble/include/rcutils -isystem /opt/ros/humble/include/rosidl_typesupport_interface -isystem /opt/ros/humble/include/fastcdr -isystem /opt/ros/humble/include/rosidl_runtime_cpp -isystem /opt/ros/humble/include/rosidl_typesupport_fastrtps_cpp -isystem /opt/ros/humble/include/rmw -isystem /opt/ros/humble/include/rosidl_typesupport_fastrtps_c -isystem /opt/ros/humble/include/rosidl_typesupport_introspection_c -isystem /opt/ros/humble/include/rosidl_typesupport_introspection_cpp -isystem /opt/ros/humble/include/rcl -isystem /opt/ros/humble/include/rcl_interfaces -isystem /opt/ros/humble/include/rcl_logging_interface -isystem /opt/ros/humble/include/rcl_yaml_param_parser -isystem /opt/ros/humble/include/libyaml_vendor -isystem /opt/ros/humble/include/tracetools -isystem /opt/ros/humble/include/rcpputils -isystem /opt/ros/humble/include/statistics_msgs -isystem /opt/ros/humble/include/rosgraph_msgs -isystem /opt/ros/humble/include/rosidl_typesupport_cpp -isystem /opt/ros/humble/include/rosidl_typesupport_c -isystem /opt/ros/humble/include/geometry_msgs -Wall -Wextra -Wpedantic -fPIC -MD -MT CMakeFiles/qt_image_text_transfer.dir/src/server_window.cpp.o -MF CMakeFiles/qt_image_text_transfer.dir/src/server_window.cpp.o.d -o CMakeFiles/qt_image_text_transfer.dir/src/server_window.cpp.o -c /data/qt_image_text_transfer/src/server_window.cpp\n'}
+[4.759640] (qt_image_text_transfer) StdoutLine: {'line': b'/data/qt_image_text_transfer/src/server_window.cpp: In member function \xe2\x80\x98bool qt_image_text_transfer::ServerWindow::openRTSPStream(const QString&)\xe2\x80\x99:\n'}
+[4.760094] (qt_image_text_transfer) StdoutLine: {'line': b'/data/qt_image_text_transfer/src/server_window.cpp:186:14: error: \xe2\x80\x98cv::utils::logging\xe2\x80\x99 has not been declared\n'}
+[4.760420] (qt_image_text_transfer) StdoutLine: {'line': b'  186 |   cv::utils::logging::setLogLevel(cv::utils::logging::LOG_LEVEL_WARNING);\n'}
+[4.760793] (qt_image_text_transfer) StdoutLine: {'line': b'      |              ^~~~~~~\n'}
+[4.761139] (qt_image_text_transfer) StdoutLine: {'line': b'/data/qt_image_text_transfer/src/server_window.cpp:186:46: error: \xe2\x80\x98cv::utils::logging\xe2\x80\x99 has not been declared\n'}
+[4.761489] (qt_image_text_transfer) StdoutLine: {'line': b'  186 |   cv::utils::logging::setLogLevel(cv::utils::logging::LOG_LEVEL_WARNING);\n'}
+[4.761840] (qt_image_text_transfer) StdoutLine: {'line': b'      |                                              ^~~~~~~\n'}
+[4.762414] (qt_image_text_transfer) StdoutLine: {'line': b'/data/qt_image_text_transfer/src/server_window.cpp: In member function \xe2\x80\x98void qt_image_text_transfer::ServerWindow::onSendText()\xe2\x80\x99:\n'}
+[4.762792] (qt_image_text_transfer) StdoutLine: {'line': b'/data/qt_image_text_transfer/src/server_window.cpp:243:34: error: incomplete type \xe2\x80\x98QDateTime\xe2\x80\x99 used in nested name specifier\n'}
+[4.763072] (qt_image_text_transfer) StdoutLine: {'line': b'  243 |   QString timestamp = QDateTime::currentDateTime().toString(QStringLiteral("hh:mm:ss"));\n'}
+[4.763348] (qt_image_text_transfer) StdoutLine: {'line': b'      |                                  ^~~~~~~~~~~~~~~\n'}
+[4.854275] (-) TimerEvent: {}
+[4.954254] (qt_image_text_transfer) StdoutLine: {'line': b'[4/5] Building CXX object CMakeFiles/qt_image_text_transfer.dir/src/main.cpp.o\n'}
+[4.954897] (-) TimerEvent: {}
+[4.961951] (qt_image_text_transfer) StdoutLine: {'line': b'ninja: build stopped: subcommand failed.\n'}
+[4.963893] (qt_image_text_transfer) CommandEnded: {'returncode': 1}
+[5.055044] (-) TimerEvent: {}
+[5.133690] (qt_image_text_transfer) JobEnded: {'identifier': 'qt_image_text_transfer', 'rc': 1}
+[5.144351] (-) EventReactorShutdown: {}

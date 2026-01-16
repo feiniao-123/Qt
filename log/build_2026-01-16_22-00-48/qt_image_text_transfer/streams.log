@@ -1,0 +1,35 @@
+[0.073s] Invoking command in '/data/build/qt_image_text_transfer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /data/build/qt_image_text_transfer -- -j32 -l32
+[0.216s] 
+[0.318s] [0/6] Automatic MOC and UIC for target qt_image_text_transfer[K
+[0.354s] [1/6] Automatic MOC and UIC for target qt_image_text_transfer[K
+[0.357s] [1/5] Building CXX object CMakeFiles/qt_image_text_transfer.dir/src/server_window.cpp.o[K
+[0.359s] [1/5] Building CXX object CMakeFiles/qt_image_text_transfer.dir/src/client_window.cpp.o[K
+[5.638s] [1/5] Building CXX object CMakeFiles/qt_image_text_transfer.dir/src/server_node.cpp.o[K
+[6.007s] [2/5] Building CXX object CMakeFiles/qt_image_text_transfer.dir/src/client_window.cpp.o[K
+[7.313s] [3/5] Building CXX object CMakeFiles/qt_image_text_transfer.dir/src/server_window.cpp.o[K
+[7.322s] [4/5] Building CXX object CMakeFiles/qt_image_text_transfer.dir/src/server_node.cpp.o[K
+[16.067s] [4/5] Linking CXX executable qt_image_text_transfer[K
+[16.073s] [5/5] Linking CXX executable qt_image_text_transfer[K
+[16.077s] Invoked command in '/data/build/qt_image_text_transfer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /data/build/qt_image_text_transfer -- -j32 -l32
+[16.101s] Invoking command in '/data/build/qt_image_text_transfer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /data/build/qt_image_text_transfer
+[16.110s] -- Install configuration: ""
+[16.138s] -- Installing: /data/install/qt_image_text_transfer/lib/qt_image_text_transfer/qt_image_text_transfer
+[16.385s] -- Set runtime path of "/data/install/qt_image_text_transfer/lib/qt_image_text_transfer/qt_image_text_transfer" to ""
+[16.394s] -- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/launch
+[16.408s] -- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/launch/image_text_transfer.launch.py
+[16.426s] -- Up-to-date: /data/install/qt_image_text_transfer/share/ament_index/resource_index/package_run_dependencies/qt_image_text_transfer
+[16.446s] -- Up-to-date: /data/install/qt_image_text_transfer/share/ament_index/resource_index/parent_prefix_path/qt_image_text_transfer
+[16.463s] -- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/environment/ament_prefix_path.sh
+[16.484s] -- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/environment/ament_prefix_path.dsv
+[16.513s] -- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/environment/path.sh
+[16.536s] -- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/environment/path.dsv
+[16.559s] -- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/local_setup.bash
+[16.570s] -- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/local_setup.sh
+[16.587s] -- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/local_setup.zsh
+[16.598s] -- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/local_setup.dsv
+[16.632s] -- Installing: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/package.dsv
+[16.695s] -- Up-to-date: /data/install/qt_image_text_transfer/share/ament_index/resource_index/packages/qt_image_text_transfer
+[16.709s] -- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/cmake/qt_image_text_transferConfig.cmake
+[16.719s] -- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/cmake/qt_image_text_transferConfig-version.cmake
+[16.729s] -- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/package.xml
+[16.735s] Invoked command in '/data/build/qt_image_text_transfer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /data/build/qt_image_text_transfer

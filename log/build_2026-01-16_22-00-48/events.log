@@ -1,0 +1,212 @@
+[0.000000] (-) TimerEvent: {}
+[0.000207] (qt_image_text_transfer) JobQueued: {'identifier': 'qt_image_text_transfer', 'dependencies': OrderedDict()}
+[0.000480] (qt_image_text_transfer) JobStarted: {'identifier': 'qt_image_text_transfer'}
+[0.043632] (qt_image_text_transfer) JobProgress: {'identifier': 'qt_image_text_transfer', 'progress': 'cmake'}
+[0.054775] (qt_image_text_transfer) JobProgress: {'identifier': 'qt_image_text_transfer', 'progress': 'build'}
+[0.055006] (qt_image_text_transfer) Command: {'cmd': ['/usr/bin/cmake', '--build', '/data/build/qt_image_text_transfer', '--', '-j32', '-l32'], 'cwd': '/data/build/qt_image_text_transfer', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('HOSTNAME', 'docker-desktop'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/root'), ('OLDPWD', '/'), ('NVM_BIN', '/root/.nvm/versions/node/v24.12.0/bin'), ('NVM_INC', '/root/.nvm/versions/node/v24.12.0/include/node'), ('ROS_PYTHON_VERSION', '3'), ('NVM_DIR', '/root/.nvm'), ('COLCON_PREFIX_PATH', '/data/install'), ('ROS_DISTRO', 'humble'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('TERM', 'xterm'), ('ROS_LOCALHOST_ONLY', '0'), ('QT_X11_NO_MITSHM', '1'), ('PATH', '/root/.nvm/versions/node/v24.12.0/bin:/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'), ('DISPLAY', 'host.docker.internal:0.0'), ('LANG', 'C.UTF-8'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('AMENT_PREFIX_PATH', '/data/install/qt_image_text_transfer:/opt/ros/humble'), ('ROS_DOMAIN_ID', '28'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('PWD', '/data/build/qt_image_text_transfer'), ('LC_ALL', 'C.UTF-8'), ('NVM_CD_FLAGS', ''), ('PYTHONPATH', '/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('COLCON', '1'), ('CMAKE_PREFIX_PATH', '/data/install/qt_image_text_transfer:/opt/ros/humble')]), 'shell': False}
+[0.099000] (-) TimerEvent: {}
+[0.202474] (-) TimerEvent: {}
+[0.215928] (qt_image_text_transfer) StdoutLine: {'line': b'\n'}
+[0.302595] (-) TimerEvent: {}
+[0.317323] (qt_image_text_transfer) StdoutLine: {'line': b'[0/6] Automatic MOC and UIC for target qt_image_text_transfer\x1b[K\n'}
+[0.354307] (qt_image_text_transfer) StdoutLine: {'line': b'[1/6] Automatic MOC and UIC for target qt_image_text_transfer\x1b[K\n'}
+[0.356699] (qt_image_text_transfer) StdoutLine: {'line': b'[1/5] Building CXX object CMakeFiles/qt_image_text_transfer.dir/src/server_window.cpp.o\x1b[K\n'}
+[0.359155] (qt_image_text_transfer) StdoutLine: {'line': b'[1/5] Building CXX object CMakeFiles/qt_image_text_transfer.dir/src/client_window.cpp.o\x1b[K\n'}
+[0.402755] (-) TimerEvent: {}
+[0.503440] (-) TimerEvent: {}
+[0.603962] (-) TimerEvent: {}
+[0.704992] (-) TimerEvent: {}
+[0.805388] (-) TimerEvent: {}
+[0.905783] (-) TimerEvent: {}
+[1.006187] (-) TimerEvent: {}
+[1.106596] (-) TimerEvent: {}
+[1.207072] (-) TimerEvent: {}
+[1.307443] (-) TimerEvent: {}
+[1.407835] (-) TimerEvent: {}
+[1.508204] (-) TimerEvent: {}
+[1.608644] (-) TimerEvent: {}
+[1.709011] (-) TimerEvent: {}
+[1.809381] (-) TimerEvent: {}
+[1.909846] (-) TimerEvent: {}
+[2.010249] (-) TimerEvent: {}
+[2.110646] (-) TimerEvent: {}
+[2.210989] (-) TimerEvent: {}
+[2.311381] (-) TimerEvent: {}
+[2.411941] (-) TimerEvent: {}
+[2.512592] (-) TimerEvent: {}
+[2.613575] (-) TimerEvent: {}
+[2.714369] (-) TimerEvent: {}
+[2.815474] (-) TimerEvent: {}
+[2.916427] (-) TimerEvent: {}
+[3.017361] (-) TimerEvent: {}
+[3.117945] (-) TimerEvent: {}
+[3.219050] (-) TimerEvent: {}
+[3.325970] (-) TimerEvent: {}
+[3.427126] (-) TimerEvent: {}
+[3.528399] (-) TimerEvent: {}
+[3.629590] (-) TimerEvent: {}
+[3.730881] (-) TimerEvent: {}
+[3.831763] (-) TimerEvent: {}
+[3.932758] (-) TimerEvent: {}
+[4.033882] (-) TimerEvent: {}
+[4.135306] (-) TimerEvent: {}
+[4.236529] (-) TimerEvent: {}
+[4.337442] (-) TimerEvent: {}
+[4.438557] (-) TimerEvent: {}
+[4.540096] (-) TimerEvent: {}
+[4.641052] (-) TimerEvent: {}
+[4.742331] (-) TimerEvent: {}
+[4.844731] (-) TimerEvent: {}
+[4.945614] (-) TimerEvent: {}
+[5.046464] (-) TimerEvent: {}
+[5.147712] (-) TimerEvent: {}
+[5.249778] (-) TimerEvent: {}
+[5.351100] (-) TimerEvent: {}
+[5.453570] (-) TimerEvent: {}
+[5.554718] (-) TimerEvent: {}
+[5.637075] (qt_image_text_transfer) StdoutLine: {'line': b'[1/5] Building CXX object CMakeFiles/qt_image_text_transfer.dir/src/server_node.cpp.o\x1b[K\n'}
+[5.654923] (-) TimerEvent: {}
+[5.755773] (-) TimerEvent: {}
+[5.856829] (-) TimerEvent: {}
+[5.957881] (-) TimerEvent: {}
+[6.006661] (qt_image_text_transfer) StdoutLine: {'line': b'[2/5] Building CXX object CMakeFiles/qt_image_text_transfer.dir/src/client_window.cpp.o\x1b[K\n'}
+[6.058211] (-) TimerEvent: {}
+[6.159216] (-) TimerEvent: {}
+[6.260457] (-) TimerEvent: {}
+[6.363839] (-) TimerEvent: {}
+[6.465007] (-) TimerEvent: {}
+[6.565932] (-) TimerEvent: {}
+[6.666759] (-) TimerEvent: {}
+[6.767376] (-) TimerEvent: {}
+[6.868097] (-) TimerEvent: {}
+[6.968743] (-) TimerEvent: {}
+[7.069450] (-) TimerEvent: {}
+[7.170104] (-) TimerEvent: {}
+[7.270966] (-) TimerEvent: {}
+[7.312819] (qt_image_text_transfer) StdoutLine: {'line': b'[3/5] Building CXX object CMakeFiles/qt_image_text_transfer.dir/src/server_window.cpp.o\x1b[K\n'}
+[7.321415] (qt_image_text_transfer) StdoutLine: {'line': b'[4/5] Building CXX object CMakeFiles/qt_image_text_transfer.dir/src/server_node.cpp.o\x1b[K\n'}
+[7.371096] (-) TimerEvent: {}
+[7.472039] (-) TimerEvent: {}
+[7.573328] (-) TimerEvent: {}
+[7.674000] (-) TimerEvent: {}
+[7.775263] (-) TimerEvent: {}
+[7.875769] (-) TimerEvent: {}
+[7.976376] (-) TimerEvent: {}
+[8.077876] (-) TimerEvent: {}
+[8.178615] (-) TimerEvent: {}
+[8.279223] (-) TimerEvent: {}
+[8.379918] (-) TimerEvent: {}
+[8.480660] (-) TimerEvent: {}
+[8.581576] (-) TimerEvent: {}
+[8.682256] (-) TimerEvent: {}
+[8.783519] (-) TimerEvent: {}
+[8.884157] (-) TimerEvent: {}
+[8.984738] (-) TimerEvent: {}
+[9.085396] (-) TimerEvent: {}
+[9.185939] (-) TimerEvent: {}
+[9.286515] (-) TimerEvent: {}
+[9.387271] (-) TimerEvent: {}
+[9.487734] (-) TimerEvent: {}
+[9.588323] (-) TimerEvent: {}
+[9.688904] (-) TimerEvent: {}
+[9.790199] (-) TimerEvent: {}
+[9.890910] (-) TimerEvent: {}
+[9.991702] (-) TimerEvent: {}
+[10.092733] (-) TimerEvent: {}
+[10.194247] (-) TimerEvent: {}
+[10.295482] (-) TimerEvent: {}
+[10.396923] (-) TimerEvent: {}
+[10.498077] (-) TimerEvent: {}
+[10.599001] (-) TimerEvent: {}
+[10.699739] (-) TimerEvent: {}
+[10.800610] (-) TimerEvent: {}
+[10.901646] (-) TimerEvent: {}
+[11.002955] (-) TimerEvent: {}
+[11.103938] (-) TimerEvent: {}
+[11.204773] (-) TimerEvent: {}
+[11.307083] (-) TimerEvent: {}
+[11.407447] (-) TimerEvent: {}
+[11.509660] (-) TimerEvent: {}
+[11.610238] (-) TimerEvent: {}
+[11.711264] (-) TimerEvent: {}
+[11.812057] (-) TimerEvent: {}
+[11.912638] (-) TimerEvent: {}
+[12.013108] (-) TimerEvent: {}
+[12.113652] (-) TimerEvent: {}
+[12.214804] (-) TimerEvent: {}
+[12.315595] (-) TimerEvent: {}
+[12.417076] (-) TimerEvent: {}
+[12.517973] (-) TimerEvent: {}
+[12.618744] (-) TimerEvent: {}
+[12.719380] (-) TimerEvent: {}
+[12.819789] (-) TimerEvent: {}
+[12.920237] (-) TimerEvent: {}
+[13.021083] (-) TimerEvent: {}
+[13.121927] (-) TimerEvent: {}
+[13.222417] (-) TimerEvent: {}
+[13.324979] (-) TimerEvent: {}
+[13.426715] (-) TimerEvent: {}
+[13.527193] (-) TimerEvent: {}
+[13.627934] (-) TimerEvent: {}
+[13.728575] (-) TimerEvent: {}
+[13.829604] (-) TimerEvent: {}
+[13.930209] (-) TimerEvent: {}
+[14.030883] (-) TimerEvent: {}
+[14.133089] (-) TimerEvent: {}
+[14.233530] (-) TimerEvent: {}
+[14.334005] (-) TimerEvent: {}
+[14.434682] (-) TimerEvent: {}
+[14.535161] (-) TimerEvent: {}
+[14.638383] (-) TimerEvent: {}
+[14.739084] (-) TimerEvent: {}
+[14.839622] (-) TimerEvent: {}
+[14.942306] (-) TimerEvent: {}
+[15.042789] (-) TimerEvent: {}
+[15.143245] (-) TimerEvent: {}
+[15.245381] (-) TimerEvent: {}
+[15.346294] (-) TimerEvent: {}
+[15.446834] (-) TimerEvent: {}
+[15.547298] (-) TimerEvent: {}
+[15.648008] (-) TimerEvent: {}
+[15.749879] (-) TimerEvent: {}
+[15.850536] (-) TimerEvent: {}
+[15.950971] (-) TimerEvent: {}
+[16.051339] (-) TimerEvent: {}
+[16.066906] (qt_image_text_transfer) StdoutLine: {'line': b'[4/5] Linking CXX executable qt_image_text_transfer\x1b[K\n'}
+[16.072594] (qt_image_text_transfer) StdoutLine: {'line': b'[5/5] Linking CXX executable qt_image_text_transfer\x1b[K\n'}
+[16.076914] (qt_image_text_transfer) CommandEnded: {'returncode': 0}
+[16.093856] (qt_image_text_transfer) JobProgress: {'identifier': 'qt_image_text_transfer', 'progress': 'install'}
+[16.099791] (qt_image_text_transfer) Command: {'cmd': ['/usr/bin/cmake', '--install', '/data/build/qt_image_text_transfer'], 'cwd': '/data/build/qt_image_text_transfer', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('HOSTNAME', 'docker-desktop'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/root'), ('OLDPWD', '/'), ('NVM_BIN', '/root/.nvm/versions/node/v24.12.0/bin'), ('NVM_INC', '/root/.nvm/versions/node/v24.12.0/include/node'), ('ROS_PYTHON_VERSION', '3'), ('NVM_DIR', '/root/.nvm'), ('COLCON_PREFIX_PATH', '/data/install'), ('ROS_DISTRO', 'humble'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('TERM', 'xterm'), ('ROS_LOCALHOST_ONLY', '0'), ('QT_X11_NO_MITSHM', '1'), ('PATH', '/root/.nvm/versions/node/v24.12.0/bin:/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'), ('DISPLAY', 'host.docker.internal:0.0'), ('LANG', 'C.UTF-8'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('AMENT_PREFIX_PATH', '/data/install/qt_image_text_transfer:/opt/ros/humble'), ('ROS_DOMAIN_ID', '28'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('PWD', '/data/build/qt_image_text_transfer'), ('LC_ALL', 'C.UTF-8'), ('NVM_CD_FLAGS', ''), ('PYTHONPATH', '/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('COLCON', '1'), ('CMAKE_PREFIX_PATH', '/data/install/qt_image_text_transfer:/opt/ros/humble')]), 'shell': False}
+[16.110226] (qt_image_text_transfer) StdoutLine: {'line': b'-- Install configuration: ""\n'}
+[16.137793] (qt_image_text_transfer) StdoutLine: {'line': b'-- Installing: /data/install/qt_image_text_transfer/lib/qt_image_text_transfer/qt_image_text_transfer\n'}
+[16.151474] (-) TimerEvent: {}
+[16.251908] (-) TimerEvent: {}
+[16.352305] (-) TimerEvent: {}
+[16.385118] (qt_image_text_transfer) StdoutLine: {'line': b'-- Set runtime path of "/data/install/qt_image_text_transfer/lib/qt_image_text_transfer/qt_image_text_transfer" to ""\n'}
+[16.393841] (qt_image_text_transfer) StdoutLine: {'line': b'-- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/launch\n'}
+[16.408689] (qt_image_text_transfer) StdoutLine: {'line': b'-- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/launch/image_text_transfer.launch.py\n'}
+[16.426708] (qt_image_text_transfer) StdoutLine: {'line': b'-- Up-to-date: /data/install/qt_image_text_transfer/share/ament_index/resource_index/package_run_dependencies/qt_image_text_transfer\n'}
+[16.445794] (qt_image_text_transfer) StdoutLine: {'line': b'-- Up-to-date: /data/install/qt_image_text_transfer/share/ament_index/resource_index/parent_prefix_path/qt_image_text_transfer\n'}
+[16.452501] (-) TimerEvent: {}
+[16.462464] (qt_image_text_transfer) StdoutLine: {'line': b'-- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/environment/ament_prefix_path.sh\n'}
+[16.483929] (qt_image_text_transfer) StdoutLine: {'line': b'-- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/environment/ament_prefix_path.dsv\n'}
+[16.512925] (qt_image_text_transfer) StdoutLine: {'line': b'-- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/environment/path.sh\n'}
+[16.536086] (qt_image_text_transfer) StdoutLine: {'line': b'-- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/environment/path.dsv\n'}
+[16.552676] (-) TimerEvent: {}
+[16.559509] (qt_image_text_transfer) StdoutLine: {'line': b'-- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/local_setup.bash\n'}
+[16.570663] (qt_image_text_transfer) StdoutLine: {'line': b'-- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/local_setup.sh\n'}
+[16.587335] (qt_image_text_transfer) StdoutLine: {'line': b'-- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/local_setup.zsh\n'}
+[16.597833] (qt_image_text_transfer) StdoutLine: {'line': b'-- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/local_setup.dsv\n'}
+[16.631932] (qt_image_text_transfer) StdoutLine: {'line': b'-- Installing: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/package.dsv\n'}
+[16.652785] (-) TimerEvent: {}
+[16.694752] (qt_image_text_transfer) StdoutLine: {'line': b'-- Up-to-date: /data/install/qt_image_text_transfer/share/ament_index/resource_index/packages/qt_image_text_transfer\n'}
+[16.708908] (qt_image_text_transfer) StdoutLine: {'line': b'-- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/cmake/qt_image_text_transferConfig.cmake\n'}
+[16.718838] (qt_image_text_transfer) StdoutLine: {'line': b'-- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/cmake/qt_image_text_transferConfig-version.cmake\n'}
+[16.729562] (qt_image_text_transfer) StdoutLine: {'line': b'-- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/package.xml\n'}
+[16.735169] (qt_image_text_transfer) CommandEnded: {'returncode': 0}
+[16.752940] (-) TimerEvent: {}
+[16.853480] (-) TimerEvent: {}
+[16.953842] (-) TimerEvent: {}
+[17.054126] (-) TimerEvent: {}
+[17.131816] (qt_image_text_transfer) JobEnded: {'identifier': 'qt_image_text_transfer', 'rc': 0}
+[17.136677] (-) EventReactorShutdown: {}

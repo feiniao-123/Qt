@@ -1,0 +1,52 @@
+[0/1] Re-running CMake...
+-- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found rclcpp: 16.0.16 (/opt/ros/humble/share/rclcpp/cmake)
+-- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.9 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found sensor_msgs: 4.9.0 (/opt/ros/humble/share/sensor_msgs/cmake)
+-- Found cv_bridge: 3.2.1 (/opt/ros/humble/share/cv_bridge/cmake)
+-- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: /data/qt_image_text_transfer/include
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'cpplint' to check C / C++ code against the Google style
+-- Configured cpplint exclude dirs and/or files: 
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /data/build/qt_image_text_transfer
+[1/3] Automatic MOC and UIC for target qt_image_text_transfer
+[2/3] Building CXX object CMakeFiles/qt_image_text_transfer.dir/qt_image_text_transfer_autogen/mocs_compilation.cpp.o
+[3/3] Linking CXX executable qt_image_text_transfer
+-- Install configuration: ""
+-- Installing: /data/install/qt_image_text_transfer/lib/qt_image_text_transfer/qt_image_text_transfer
+-- Set runtime path of "/data/install/qt_image_text_transfer/lib/qt_image_text_transfer/qt_image_text_transfer" to ""
+-- Installing: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/launch
+-- Installing: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/launch/image_text_transfer.launch.py
+-- Installing: /data/install/qt_image_text_transfer/share/ament_index/resource_index/package_run_dependencies/qt_image_text_transfer
+-- Installing: /data/install/qt_image_text_transfer/share/ament_index/resource_index/parent_prefix_path/qt_image_text_transfer
+-- Installing: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/environment/ament_prefix_path.sh
+-- Installing: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/environment/ament_prefix_path.dsv
+-- Installing: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/environment/path.sh
+-- Installing: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/environment/path.dsv
+-- Installing: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/local_setup.bash
+-- Installing: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/local_setup.sh
+-- Installing: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/local_setup.zsh
+-- Installing: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/local_setup.dsv
+-- Installing: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/package.dsv
+-- Installing: /data/install/qt_image_text_transfer/share/ament_index/resource_index/packages/qt_image_text_transfer
+-- Installing: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/cmake/qt_image_text_transferConfig.cmake
+-- Installing: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/cmake/qt_image_text_transferConfig-version.cmake
+-- Installing: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/package.xml

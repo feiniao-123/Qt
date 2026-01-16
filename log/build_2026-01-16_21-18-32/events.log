@@ -1,0 +1,121 @@
+[0.000000] (-) TimerEvent: {}
+[0.000309] (qt_image_text_transfer) JobQueued: {'identifier': 'qt_image_text_transfer', 'dependencies': OrderedDict()}
+[0.000472] (qt_image_text_transfer) JobStarted: {'identifier': 'qt_image_text_transfer'}
+[0.012978] (qt_image_text_transfer) JobProgress: {'identifier': 'qt_image_text_transfer', 'progress': 'cmake'}
+[0.023034] (qt_image_text_transfer) JobProgress: {'identifier': 'qt_image_text_transfer', 'progress': 'build'}
+[0.023844] (qt_image_text_transfer) Command: {'cmd': ['/usr/bin/cmake', '--build', '/data/build/qt_image_text_transfer', '--', '-j32', '-l32'], 'cwd': '/data/build/qt_image_text_transfer', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('CLAUDE_CODE_ENTRYPOINT', 'cli'), ('GIT_EDITOR', 'true'), ('HOSTNAME', 'docker-desktop'), ('SHLVL', '2'), ('LD_LIBRARY_PATH', '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/root'), ('OLDPWD', '/'), ('NVM_BIN', '/root/.nvm/versions/node/v24.12.0/bin'), ('NVM_INC', '/root/.nvm/versions/node/v24.12.0/include/node'), ('ROS_PYTHON_VERSION', '3'), ('NVM_DIR', '/root/.nvm'), ('DEBUGINFOD_URLS', ''), ('API_TIMEOUT_MS', '3000000'), ('ROS_DISTRO', 'humble'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('ANTHROPIC_BASE_URL', 'https://open.bigmodel.cn/api/anthropic'), ('TERM', 'xterm'), ('OTEL_EXPORTER_OTLP_METRICS_TEMPORALITY_PREFERENCE', 'delta'), ('ROS_LOCALHOST_ONLY', '0'), ('QT_X11_NO_MITSHM', '1'), ('PATH', '/root/.nvm/versions/node/v24.12.0/bin:/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'), ('COREPACK_ENABLE_AUTO_PIN', '0'), ('DISPLAY', 'host.docker.internal:0.0'), ('NoDefaultCurrentDirectoryInExePath', '1'), ('LANG', 'C.UTF-8'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('AMENT_PREFIX_PATH', '/opt/ros/humble'), ('ROS_DOMAIN_ID', '49'), ('SHELL', '/bin/bash'), ('ANTHROPIC_AUTH_TOKEN', '3d32635b207540678fbf3cb0d3dfb8ad.JgRpcBiPN4Z9o7EZ'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('CLAUDECODE', '1'), ('PWD', '/data/build/qt_image_text_transfer'), ('LC_ALL', 'C.UTF-8'), ('NVM_CD_FLAGS', ''), ('CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC', '1'), ('PYTHONPATH', '/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('COLCON', '1'), ('CMAKE_PREFIX_PATH', '/opt/ros/humble')]), 'shell': False}
+[0.098887] (-) TimerEvent: {}
+[0.161610] (qt_image_text_transfer) StdoutLine: {'line': b'[1/4] Automatic MOC and UIC for target qt_image_text_transfer\n'}
+[0.198999] (-) TimerEvent: {}
+[0.299277] (-) TimerEvent: {}
+[0.400289] (-) TimerEvent: {}
+[0.500618] (-) TimerEvent: {}
+[0.605065] (-) TimerEvent: {}
+[0.705416] (-) TimerEvent: {}
+[0.805784] (-) TimerEvent: {}
+[0.906060] (-) TimerEvent: {}
+[1.006460] (-) TimerEvent: {}
+[1.106796] (-) TimerEvent: {}
+[1.207085] (-) TimerEvent: {}
+[1.307354] (-) TimerEvent: {}
+[1.407651] (-) TimerEvent: {}
+[1.507949] (-) TimerEvent: {}
+[1.608327] (-) TimerEvent: {}
+[1.708601] (-) TimerEvent: {}
+[1.808917] (-) TimerEvent: {}
+[1.909503] (-) TimerEvent: {}
+[2.010270] (-) TimerEvent: {}
+[2.110815] (-) TimerEvent: {}
+[2.211628] (-) TimerEvent: {}
+[2.312155] (-) TimerEvent: {}
+[2.412834] (-) TimerEvent: {}
+[2.513540] (-) TimerEvent: {}
+[2.614098] (-) TimerEvent: {}
+[2.714685] (-) TimerEvent: {}
+[2.815268] (-) TimerEvent: {}
+[2.921273] (-) TimerEvent: {}
+[3.022037] (-) TimerEvent: {}
+[3.122908] (-) TimerEvent: {}
+[3.223616] (-) TimerEvent: {}
+[3.323978] (-) TimerEvent: {}
+[3.424673] (-) TimerEvent: {}
+[3.525251] (-) TimerEvent: {}
+[3.625993] (-) TimerEvent: {}
+[3.726451] (-) TimerEvent: {}
+[3.827072] (-) TimerEvent: {}
+[3.927712] (-) TimerEvent: {}
+[4.028352] (-) TimerEvent: {}
+[4.129230] (-) TimerEvent: {}
+[4.229868] (-) TimerEvent: {}
+[4.330719] (-) TimerEvent: {}
+[4.431625] (-) TimerEvent: {}
+[4.492488] (qt_image_text_transfer) StdoutLine: {'line': b'[2/3] Building CXX object CMakeFiles/qt_image_text_transfer.dir/src/server_window.cpp.o\n'}
+[4.531739] (-) TimerEvent: {}
+[4.632124] (-) TimerEvent: {}
+[4.732468] (-) TimerEvent: {}
+[4.833708] (-) TimerEvent: {}
+[4.933985] (-) TimerEvent: {}
+[5.034496] (-) TimerEvent: {}
+[5.134752] (-) TimerEvent: {}
+[5.237538] (-) TimerEvent: {}
+[5.337907] (-) TimerEvent: {}
+[5.442770] (-) TimerEvent: {}
+[5.549461] (-) TimerEvent: {}
+[5.649731] (-) TimerEvent: {}
+[5.750186] (-) TimerEvent: {}
+[5.851059] (-) TimerEvent: {}
+[5.951621] (-) TimerEvent: {}
+[6.052608] (-) TimerEvent: {}
+[6.153339] (-) TimerEvent: {}
+[6.253992] (-) TimerEvent: {}
+[6.354660] (-) TimerEvent: {}
+[6.455530] (-) TimerEvent: {}
+[6.555828] (-) TimerEvent: {}
+[6.656163] (-) TimerEvent: {}
+[6.756447] (-) TimerEvent: {}
+[6.856715] (-) TimerEvent: {}
+[6.957044] (-) TimerEvent: {}
+[7.057468] (-) TimerEvent: {}
+[7.157923] (-) TimerEvent: {}
+[7.258193] (-) TimerEvent: {}
+[7.358459] (-) TimerEvent: {}
+[7.459135] (-) TimerEvent: {}
+[7.559390] (-) TimerEvent: {}
+[7.659697] (-) TimerEvent: {}
+[7.759951] (-) TimerEvent: {}
+[7.860255] (-) TimerEvent: {}
+[7.962090] (-) TimerEvent: {}
+[8.062818] (-) TimerEvent: {}
+[8.163068] (-) TimerEvent: {}
+[8.263321] (-) TimerEvent: {}
+[8.363561] (-) TimerEvent: {}
+[8.463916] (-) TimerEvent: {}
+[8.564525] (-) TimerEvent: {}
+[8.665305] (-) TimerEvent: {}
+[8.765764] (-) TimerEvent: {}
+[8.866096] (-) TimerEvent: {}
+[8.966390] (-) TimerEvent: {}
+[9.066641] (-) TimerEvent: {}
+[9.168256] (-) TimerEvent: {}
+[9.268517] (-) TimerEvent: {}
+[9.341650] (qt_image_text_transfer) StdoutLine: {'line': b'[3/3] Linking CXX executable qt_image_text_transfer\n'}
+[9.342171] (qt_image_text_transfer) StdoutLine: {'line': b'FAILED: qt_image_text_transfer \n'}
+[9.342477] (qt_image_text_transfer) StdoutLine: {'line': b': && /usr/bin/c++   CMakeFiles/qt_image_text_transfer.dir/qt_image_text_transfer_autogen/mocs_compilation.cpp.o CMakeFiles/qt_image_text_transfer.dir/src/main.cpp.o CMakeFiles/qt_image_text_transfer.dir/src/server_window.cpp.o CMakeFiles/qt_image_text_transfer.dir/src/client_window.cpp.o CMakeFiles/qt_image_text_transfer.dir/src/server_node.cpp.o CMakeFiles/qt_image_text_transfer.dir/src/client_node.cpp.o -o qt_image_text_transfer  -Wl,-rpath,/opt/ros/humble/lib:  /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.15.3  /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.15.3  /usr/lib/x86_64-linux-gnu/libopencv_stitching.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_alphamat.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_aruco.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_barcode.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_bgsegm.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_bioinspired.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_ccalib.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_dnn_objdetect.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_dnn_superres.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_dpm.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_face.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_freetype.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_fuzzy.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_hdf.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_hfs.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_img_hash.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_intensity_transform.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_line_descriptor.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_mcc.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_quality.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_rapid.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_reg.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_rgbd.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_saliency.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_shape.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_stereo.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_structured_light.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_superres.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_surface_matching.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_tracking.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_videostab.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_viz.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_wechat_qrcode.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_xobjdetect.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_xphoto.so.4.5.4d  /opt/ros/humble/lib/librclcpp.so  /opt/ros/humble/lib/libcv_bridge.so  /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.3  /usr/lib/x86_64-linux-gnu/libopencv_highgui.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_datasets.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_plot.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_text.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_ml.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_phase_unwrapping.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_optflow.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_ximgproc.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_video.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_videoio.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_objdetect.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_calib3d.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_dnn.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_features2d.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_flann.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_photo.so.4.5.4d  /opt/ros/humble/lib/liblibstatistics_collector.so  /opt/ros/humble/lib/librcl.so  /opt/ros/humble/lib/librmw_implementation.so  /opt/ros/humble/lib/libament_index_cpp.so  /opt/ros/humble/lib/librcl_logging_spdlog.so  /opt/ros/humble/lib/librcl_logging_interface.so  /opt/ros/humble/lib/librcl_interfaces__rosidl_typesupport_fastrtps_c.so  /opt/ros/humble/lib/librcl_interfaces__rosidl_typesupport_introspection_c.so  /opt/ros/humble/lib/librcl_interfaces__rosidl_typesupport_fastrtps_cpp.so  /opt/ros/humble/lib/librcl_interfaces__rosidl_typesupport_introspection_cpp.so  /opt/ros/humble/lib/librcl_interfaces__rosidl_typesupport_cpp.so  /opt/ros/humble/lib/librcl_interfaces__rosidl_generator_py.so  /opt/ros/humble/lib/librcl_interfaces__rosidl_typesupport_c.so  /opt/ros/humble/lib/librcl_interfaces__rosidl_generator_c.so  /opt/ros/humble/lib/librcl_yaml_param_parser.so  /opt/ros/humble/lib/libyaml.so  /opt/ros/humble/lib/librosgraph_msgs__rosidl_typesupport_fastrtps_c.so  /opt/ros/humble/lib/librosgraph_msgs__rosidl_typesupport_fastrtps_cpp.so  /opt/ros/humble/lib/librosgraph_msgs__rosidl_typesupport_introspection_c.so  /opt/ros/humble/lib/librosgraph_msgs__rosidl_typesupport_introspection_cpp.so  /opt/ros/humble/lib/librosgraph_msgs__rosidl_typesupport_cpp.so  /opt/ros/humble/lib/librosgraph_msgs__rosidl_generator_py.so  /opt/ros/humble/lib/librosgraph_msgs__rosidl_typesupport_c.so  /opt/ros/humble/lib/librosgraph_msgs__rosidl_generator_c.so  /opt/ros/humble/lib/libstatistics_msgs__rosidl_typesupport_fastrtps_c.so  /opt/ros/humble/lib/libstatistics_msgs__rosidl_typesupport_fastrtps_cpp.so  /opt/ros/humble/lib/libstatistics_msgs__rosidl_typesupport_introspection_c.so  /opt/ros/humble/lib/libstatistics_msgs__rosidl_typesupport_introspection_cpp.so  /opt/ros/humble/lib/libstatistics_msgs__rosidl_typesupport_cpp.so  /opt/ros/humble/lib/libstatistics_msgs__rosidl_generator_py.so  /opt/ros/humble/lib/libstatistics_msgs__rosidl_typesupport_c.so  /opt/ros/humble/lib/libstatistics_msgs__rosidl_generator_c.so  /opt/ros/humble/lib/libtracetools.so  /usr/lib/x86_64-linux-gnu/libopencv_imgcodecs.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_imgproc.so.4.5.4d  /usr/lib/x86_64-linux-gnu/libopencv_core.so.4.5.4d  /opt/ros/humble/lib/libsensor_msgs__rosidl_typesupport_fastrtps_c.so  /opt/ros/humble/lib/libgeometry_msgs__rosidl_typesupport_fastrtps_c.so  /opt/ros/humble/lib/libstd_msgs__rosidl_typesupport_fastrtps_c.so  /opt/ros/humble/lib/libbuiltin_interfaces__rosidl_typesupport_fastrtps_c.so  /opt/ros/humble/lib/librosidl_typesupport_fastrtps_c.so  /opt/ros/humble/lib/libsensor_msgs__rosidl_typesupport_fastrtps_cpp.so  /opt/ros/humble/lib/libgeometry_msgs__rosidl_typesupport_fastrtps_cpp.so  /opt/ros/humble/lib/libstd_msgs__rosidl_typesupport_fastrtps_cpp.so  /opt/ros/humble/lib/libbuiltin_interfaces__rosidl_typesupport_fastrtps_cpp.so  /opt/ros/humble/lib/librosidl_typesupport_fastrtps_cpp.so  /opt/ros/humble/lib/libfastcdr.so.1.0.24  /opt/ros/humble/lib/librmw.so  /opt/ros/humble/lib/libsensor_msgs__rosidl_typesupport_introspection_c.so  /opt/ros/humble/lib/libgeometry_msgs__rosidl_typesupport_introspection_c.so  /opt/ros/humble/lib/libstd_msgs__rosidl_typesupport_introspection_c.so  /opt/ros/humble/lib/libbuiltin_interfaces__rosidl_typesupport_introspection_c.so  /opt/ros/humble/lib/libsensor_msgs__rosidl_typesupport_introspection_cpp.so  /opt/ros/humble/lib/libgeometry_msgs__rosidl_typesupport_introspection_cpp.so  /opt/ros/humble/lib/libstd_msgs__rosidl_typesupport_introspection_cpp.so  /opt/ros/humble/lib/libbuiltin_interfaces__rosidl_typesupport_introspection_cpp.so  /opt/ros/humble/lib/librosidl_typesupport_introspection_cpp.so  /opt/ros/humble/lib/librosidl_typesupport_introspection_c.so  /opt/ros/humble/lib/libsensor_msgs__rosidl_generator_py.so  /opt/ros/humble/lib/libsensor_msgs__rosidl_typesupport_c.so  /opt/ros/humble/lib/libsensor_msgs__rosidl_generator_c.so  /opt/ros/humble/lib/libgeometry_msgs__rosidl_generator_py.so  /opt/ros/humble/lib/libstd_msgs__rosidl_generator_py.so  /opt/ros/humble/lib/libbuiltin_interfaces__rosidl_generator_py.so  /opt/ros/humble/lib/libgeometry_msgs__rosidl_typesupport_c.so  /opt/ros/humble/lib/libstd_msgs__rosidl_typesupport_c.so  /opt/ros/humble/lib/libbuiltin_interfaces__rosidl_typesupport_c.so  /opt/ros/humble/lib/libgeometry_msgs__rosidl_generator_c.so  /opt/ros/humble/lib/libstd_msgs__rosidl_generator_c.so  /opt/ros/humble/lib/libbuiltin_interfaces__rosidl_generator_c.so  /usr/lib/x86_64-linux-gnu/libpython3.10.so  /opt/ros/humble/lib/libsensor_msgs__rosidl_typesupport_cpp.so  /opt/ros/humble/lib/libgeometry_msgs__rosidl_typesupport_cpp.so  /opt/ros/humble/lib/libstd_msgs__rosidl_typesupport_cpp.so  /opt/ros/humble/lib/libbuiltin_interfaces__rosidl_typesupport_cpp.so  /opt/ros/humble/lib/librosidl_typesupport_cpp.so  /opt/ros/humble/lib/librosidl_typesupport_c.so  /opt/ros/humble/lib/librosidl_runtime_c.so  /opt/ros/humble/lib/librcpputils.so  /opt/ros/humble/lib/librcutils.so  -ldl && :\n'}
+[9.343276] (qt_image_text_transfer) StdoutLine: {'line': b"/usr/bin/ld: CMakeFiles/qt_image_text_transfer.dir/src/server_window.cpp.o: in function `qt_image_text_transfer::ServerWindow::ServerWindow(std::shared_ptr<qt_image_text_transfer::ServerNode>, QWidget*)':\n"}
+[9.343631] (qt_image_text_transfer) StdoutLine: {'line': b"server_window.cpp:(.text+0x55): undefined reference to `vtable for qt_image_text_transfer::ServerWindow'\n"}
+[9.343999] (qt_image_text_transfer) StdoutLine: {'line': b"/usr/bin/ld: server_window.cpp:(.text+0x67): undefined reference to `vtable for qt_image_text_transfer::ServerWindow'\n"}
+[9.344403] (qt_image_text_transfer) StdoutLine: {'line': b"/usr/bin/ld: CMakeFiles/qt_image_text_transfer.dir/src/server_window.cpp.o: in function `qt_image_text_transfer::ServerWindow::~ServerWindow()':\n"}
+[9.344740] (qt_image_text_transfer) StdoutLine: {'line': b"server_window.cpp:(.text+0x203): undefined reference to `vtable for qt_image_text_transfer::ServerWindow'\n"}
+[9.345212] (qt_image_text_transfer) StdoutLine: {'line': b"/usr/bin/ld: server_window.cpp:(.text+0x215): undefined reference to `vtable for qt_image_text_transfer::ServerWindow'\n"}
+[9.345592] (qt_image_text_transfer) StdoutLine: {'line': b"/usr/bin/ld: CMakeFiles/qt_image_text_transfer.dir/src/client_window.cpp.o: in function `qt_image_text_transfer::ClientWindow::ClientWindow(std::shared_ptr<qt_image_text_transfer::ClientNode>, QWidget*)':\n"}
+[9.345957] (qt_image_text_transfer) StdoutLine: {'line': b"client_window.cpp:(.text+0x4d): undefined reference to `vtable for qt_image_text_transfer::ClientWindow'\n"}
+[9.346332] (qt_image_text_transfer) StdoutLine: {'line': b"/usr/bin/ld: client_window.cpp:(.text+0x5f): undefined reference to `vtable for qt_image_text_transfer::ClientWindow'\n"}
+[9.346734] (qt_image_text_transfer) StdoutLine: {'line': b"/usr/bin/ld: CMakeFiles/qt_image_text_transfer.dir/src/client_window.cpp.o: in function `qt_image_text_transfer::ClientWindow::~ClientWindow()':\n"}
+[9.347097] (qt_image_text_transfer) StdoutLine: {'line': b"client_window.cpp:(.text+0x109): undefined reference to `vtable for qt_image_text_transfer::ClientWindow'\n"}
+[9.347439] (qt_image_text_transfer) StdoutLine: {'line': b"/usr/bin/ld: client_window.cpp:(.text+0x11b): undefined reference to `vtable for qt_image_text_transfer::ClientWindow'\n"}
+[9.347758] (qt_image_text_transfer) StdoutLine: {'line': b'collect2: error: ld returned 1 exit status\n'}
+[9.348093] (qt_image_text_transfer) StdoutLine: {'line': b'ninja: build stopped: subcommand failed.\n'}
+[9.348445] (qt_image_text_transfer) CommandEnded: {'returncode': 1}
+[9.368594] (-) TimerEvent: {}
+[9.427893] (qt_image_text_transfer) JobEnded: {'identifier': 'qt_image_text_transfer', 'rc': 1}
+[9.440562] (-) EventReactorShutdown: {}

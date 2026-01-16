@@ -1,0 +1,23 @@
+[1/4] Automatic MOC and UIC for target qt_image_text_transfer
+[2/3] Building CXX object CMakeFiles/qt_image_text_transfer.dir/src/main.cpp.o
+[3/3] Linking CXX executable qt_image_text_transfer
+-- Install configuration: ""
+-- Installing: /data/install/qt_image_text_transfer/lib/qt_image_text_transfer/qt_image_text_transfer
+-- Set runtime path of "/data/install/qt_image_text_transfer/lib/qt_image_text_transfer/qt_image_text_transfer" to ""
+-- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/launch
+-- Installing: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/launch/image_text_transfer.launch.py
+-- Up-to-date: /data/install/qt_image_text_transfer/share/ament_index/resource_index/package_run_dependencies/qt_image_text_transfer
+-- Up-to-date: /data/install/qt_image_text_transfer/share/ament_index/resource_index/parent_prefix_path/qt_image_text_transfer
+-- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/environment/ament_prefix_path.sh
+-- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/environment/ament_prefix_path.dsv
+-- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/environment/path.sh
+-- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/environment/path.dsv
+-- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/local_setup.bash
+-- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/local_setup.sh
+-- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/local_setup.zsh
+-- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/local_setup.dsv
+-- Installing: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/package.dsv
+-- Up-to-date: /data/install/qt_image_text_transfer/share/ament_index/resource_index/packages/qt_image_text_transfer
+-- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/cmake/qt_image_text_transferConfig.cmake
+-- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/cmake/qt_image_text_transferConfig-version.cmake
+-- Up-to-date: /data/install/qt_image_text_transfer/share/qt_image_text_transfer/package.xml

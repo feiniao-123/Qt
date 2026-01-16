@@ -1,0 +1,12 @@
+/data/build/qt_image_text_transfer/CMakeFiles/uninstall.dir
+/data/build/qt_image_text_transfer/CMakeFiles/qt_image_text_transfer_uninstall.dir
+/data/build/qt_image_text_transfer/CMakeFiles/qt_image_text_transfer.dir
+/data/build/qt_image_text_transfer/CMakeFiles/test.dir
+/data/build/qt_image_text_transfer/CMakeFiles/edit_cache.dir
+/data/build/qt_image_text_transfer/CMakeFiles/rebuild_cache.dir
+/data/build/qt_image_text_transfer/CMakeFiles/list_install_components.dir
+/data/build/qt_image_text_transfer/CMakeFiles/install.dir
+/data/build/qt_image_text_transfer/CMakeFiles/install/local.dir
+/data/build/qt_image_text_transfer/CMakeFiles/install/strip.dir
+/data/build/qt_image_text_transfer/CMakeFiles/qt_image_text_transfer_autogen_timestamp_deps.dir
+/data/build/qt_image_text_transfer/CMakeFiles/qt_image_text_transfer_autogen.dir
